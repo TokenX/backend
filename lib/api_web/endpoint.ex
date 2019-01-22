@@ -2,7 +2,7 @@ defmodule TokenxApiWeb.Endpoint do
   use Phoenix.Endpoint, otp_app: :api
 
   socket "/socket", TokenxApiWeb.UserSocket,
-    websocket: [timeout: 45_000],,
+    websocket: [timeout: 45_000],
     longpoll: false
 
   # Serve at "/" the static files from "priv/static" directory.

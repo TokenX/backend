@@ -1,3 +1,3 @@
 # TokenxApi
 
-TODO: создание ордера под конкретным пользователем
+Please hack, break, smash this project! And create Issue. Tnx!
